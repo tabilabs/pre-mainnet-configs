@@ -227,7 +227,7 @@ external-address = ""
 # Comma separated list of peers to be added to the peer store
 # on startup. Either BootstrapPeers or PersistentPeers are
 # needed for peer discovery
-bootstrap-peers = ""
+bootstrap-peers = "2e4347c4cd3b3f25a1bca4dcb80346f0a8946fcd@52.76.87.181:26656;5d1f7db8952b4deae2249b50ab2de9fd715b4c12@47.130.139.23:26656"
 
 # Comma separated list of nodes to keep persistent connections to
 persistent-peers = ""
